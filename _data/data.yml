@@ -15,14 +15,14 @@ sidebar:
     email: guanfei0052@gmail.com
     phone: 516 288 6885
     timezone: Eastern Standard Time
-    citizenship: Chinese
+    #citizenship: Chinese
     linkedin: fei-guan-aa8022240
     github: guanfei24
-    telegram: # add your nickname without '@' sign
+    #telegram: # add your nickname without '@' sign
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: https://guanfei24.github.io/rx_gf.pdf
+    pdf: https://guanfei24.github.io/resume_FeiGuan.pdf
 
     languages:
       title: Languages
@@ -48,8 +48,8 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
+      Summarise your career here lorem ipsum dolor sit amet, consectetuer 
+      adipiscing elit. You can [download this free resume/CV template here](https://www.overleaf.com/download/project/62902e2680ab5df297574500/build/18846605b5d-dca1cce1a30ef0a6/output/output.pdf?compileGroup=standard&clsiserverid=clsi-pre-emp-e2-c-f-sdcj&enable_pdf_caching=true&popupDownload=true).
       Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
       Donec quam felis, ultricies nec, pellentesque eu.
