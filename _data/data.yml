@@ -3,138 +3,175 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: True # set to False if you want education in main section instead of in sidebar
 
-    # Profile information
-    name: Fei Guan
-    tagline: Web Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  # Profile information
+  name: Flynn Guan
+  tagline: Full-Stack Engineer
+  avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
-    # Sidebar links
-    email: guanfei0052@gmail.com
-    phone: 516 288 6885
-    timezone: Eastern Standard Time
-    #citizenship: Chinese
-    linkedin: fei-guan-aa8022240
-    github: guanfei24
-    #telegram: # add your nickname without '@' sign
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: https://guanfei24.github.io/resume_FeiGuan.pdf
+  # Sidebar links
+  email: guanflynn@gmail.com
+  phone: 516-280-9216
+  timezone: Eastern Standard Time
+  #citizenship: Chinese
+  linkedin: flynn-guan-b7aa56348
+  github: guanfei24
+  #telegram: # add your nickname without '@' sign
+  stack-overflow: # Number/Username, e.g. 123456/alandoe
+  codewars:
+  goodreads: # Number-Username, e.g. 123456-alandoe
+  pdf: https://guanfei24.github.io/resume_FeiGuan.pdf
 
-    languages:
-      title: Languages
-      info:
-        - idiom: Chinese
-          level: Native
+  languages:
+    title: Languages
+    info:
+      - idiom: Chinese
+        level: Native
 
-        - idiom: English
-          level: Professional
+      - idiom: English
+        level: Professional732798
 
-    interests:
-      title: Interests
-      info:
-        - item: Cooking
-          link:
+  interests:
+    title: Interests
+    info:
+      - item: Cooking
+        link:
 
-        - item: Movie
-          link:
+      - item: Movie
+        link:
 
-        - item: Basketball
-          link:
+      - item: Gym
+        link:
 
 career-profile:
-    title: Career Profile
-    summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer 
-      adipiscing elit. You can [download this free resume/CV template here](https://www.overleaf.com/download/project/62902e2680ab5df297574500/build/18846605b5d-dca1cce1a30ef0a6/output/output.pdf?compileGroup=standard&clsiserverid=clsi-pre-emp-e2-c-f-sdcj&enable_pdf_caching=true&popupDownload=true).
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+  title: Career Profile
+  summary: |
+    Summarise your career here lorem ipsum dolor sit amet, consectetuer 
+    adipiscing elit. You can [download this free resume/CV template here](https://www.overleaf.com/download/project/62902e2680ab5df297574500/build/18846605b5d-dca1cce1a30ef0a6/output/output.pdf?compileGroup=standard&clsiserverid=clsi-pre-emp-e2-c-f-sdcj&enable_pdf_caching=true&popupDownload=true).
+    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+    Donec quam felis, ultricies nec, pellentesque eu.
+    Second paragraph if required.
 education:
-    title: Education
-    info:
-      - degree: M.S. in Computer Science
-        university: New York Institute of Technology
-        time: Jan. 2022 - Present
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-      - degree: B.E. in Computer Application Software
-        university: Jilin University
-        time: Sep. 2016 - Jun. 2020
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
+  title: Education
+  info:
+    - degree: M.S. in Computer Science
+      university: New York Institute of Technology
+      time: Jan. 2022 - May. 2024
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+    - degree: B.E. in Computer Application Software
+      university: Jilin University
+      time: Sep. 2016 - Jun. 2020
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
 experiences:
-    title: Experiences
-    info:
-      - role: Web Developer
-        time: May. 2022 - Present
-        company: iCleana - ancouver, Canada
-        details: |
-          - Developed the full-stack application with React and GraphQL that  help the client to process their business.
-          - Designed coded developed debugged and tested system specifications for conversion and development projects
-      - role: Project Manager 
-        time: Jan. 2016 - Aug. 2016
-        company: UXIN LTD. - Beijing, China
-        details: |
-          - Creates the work scheme for the project which defines the activities to be performed in each phase, cost and timeline estimation, and resource planning.
-          - Team building, information sharing, and leading the team to carry out the processes.
-          - Monitor the project status, identifying significant changes and making required adjustments to deliver the
-          project as expected by the CTO.
-      - role: SENIOR .NET Programmer
-        time: Apr. 2012 - Jan. 2016
-        company: UXIN LTD. - Beijing, China
-        details: |
-          - Developed used car trading website with ASP.Net, MVC, Memcached, Mybatis, javascript, and HTML+CSS as well as Maintenance and version iteration.
-          - Supported the design of a database in an MS-SQL server and an enterprise data platform to store and query tons of transaction data.
-          - Developed a web service to support Chake(A vehicle detection mobile device) to generate a detection report (including Android and IOS)
+  title: Experiences
+  info:
+    - role: Front-End Engineer
+      time: Aug. 2023 - PRESENT
+      company: United Talent Agency - New York, NY
+      details: |
+        - Developed responsive web applications using React.js and Material UI, designing and implementing front-end features with cross-device optimization for desktop/mobile experiences.
+        - Created reusable component libraries and front-end toolchains, standardizing coding practices to improve team efficiency.
+        - Collaborated closely with backend teams to integrate RESTful APIs, implementing data flow solutions (Redux) for real-time synchronization.
+        -Built automated testing workflows using Jest, maintaining 95%+ test coverage.
+        -Implemented mobile-first responsive designs using CSS-in-JS (Styled-components), covering 20+ device breakpoints.
+        -Refactored core modules using TypeScript, enhancing type safety and code maintainability by 40%.
+        -Researched and integrated emerging technologies like AWS Lambda, achieving sub-1.2s page loads.
+        -Maintained Git branching strategies and code review processes across distributed teams.
+        -Responsible for resolving critical issues in applications, including addressing user feedback, diagnosing and fixing state update errors and memory leaks, and improving application performance and stability.
+        -Established and promoted team guidelines, advocating for cleanup patterns and the adoption of modern tools to prevent recurrence of similar issues and continuously enhance application performance.
+
+    - role: Full-Stack Engineer
+      time: May. 2022 - Present
+      company: iCleana - Vancouver, Canada
+      details: |
+        - Designed and developed dynamic, interactive, and responsive user interfaces using React, JavaScript, HTML5, and CSS3, ensuring cross-browser compatibility and an intuitive user experience.
+        - Employed GraphQL for precise and efficient data querying, enabling flexible and real-time interactions between the front end and database.
+        - Developed and maintained scalable data storage solutions using MongoDB, ensuring efficient data management and high availability.
+        -Utilized AWS Cloud services for deployment and scalability, incorporating AWS Lambda for serverless functions, DynamoDB for scalable database management, S3 for asset storage, and ECS for containerized application deployment.
+        -Conducted unit and integration testing using React Testing Library to ensure application reliability and maintainability.
+        -Enhanced system performance and stability by optimizing key modules and streamlining application workflows.
+
+    - role: .NET Programmer
+      time: May. 2018 - Aug. 2022
+      company: RainbowTech - Changchun, Jilin, China
+      details: |
+        - Participated in the development and maintenance of a web-based ERP system for FAW-Volkswagen, focusing on modules including financial management, HR management, and supply chain management
+        - Designed and implemented interactive user interfaces using ASP.NET MVC, JavaScript, CSS, and AJAX to enhance usability and user experience.
+        - Used jQuery, ensuring efficient handling of dynamic content and AJAX-based interactions.
+        - Utilized Oracle as the primary database, creating and optimizing complex queries, stored procedures, and triggers to ensure reliable data processing and storage.
+        - Implemented role-based access control and data security measures to ensure compliance with internal security policies.
+        - Conducted system performance tuning to enhance efficiency, minimizing downtime and improving response times.
+        - Collaborated with cross-functional teams to integrate ERP modules, ensuring seamless communication between financial, HR, and production systems.
+        - Contributed to testing and debugging processes to ensure smooth system deployment and minimize post-release issues.
+        - Documented technical designs, workflows, and system changes to maintain clear records and facilitate future development.
+        - Engaged in Agile development practices, actively participating in sprint planning, daily stand-ups, and retrospectives.
+
+    - role: .NET Programmer
+      time: Apr. 2012 - Aug. 2018
+      company: UXIN LTD. - Beijing, China
+      details: |
+        - Led the development and enhancement of a high-performance used car trading platform using ASP.NET and jQuery, delivering a scalable solution that met diverse user needs and achieved broad market recognition.
+        - Designed and managed an enterprise-level data platform on MS-SQL Server, optimizing system scalability, stability, and performance to handle large-scale transactional data effectively.
+        - Implemented Redis for efficient caching, significantly improving application responsiveness and reducing database load.
+        - Developed comprehensive Web Services to facilitate seamless integration with mobile applications, ensuring cross-platform compatibility for Android and iOS devices.
+        - Designed and supported a vehicle inspection mobile app, enabling professional assessors in 183 cities to publish over 400,000 detailed vehicle reports monthly, highlighting the platform’s extensive reach and efficiency.
+        - Conducted performance tuning, system debugging, and database query optimization to ensure seamless user experiences.
+        - Collaborated with cross-functional teams to develop and integrate features, maintaining high-quality coding standards and best practices.
+
 projects:
-    title: PROJECTS
-    intro: >
-      My PROJECTS
-    assignments:
-      - title: iCleana
-        link: "https://www.icleana.com/"
-        tagline: "A professional Airbnb cleaning."
+  title: PROJECTS
+  intro: >
+    My PROJECTS
+  assignments:
+    - title: United Talent Agency
+      link: ""
+      tagline: "United Talent Agency is a talent and literary agency"
 
-      - title: Uxin
-        link: "https://www.xin.com/"
-        tagline: "A leading online used car dealer."
+    - title: iCleana
+      link: "https://www.icleana.com/"
+      tagline: "A professional Airbnb cleaning"
 
-      - title: Welan
-        link: "https://www.welan.com/"
-        tagline: "An online bookstore"
+    - title: RainbowTech
+      link: ""
+      tagline: "RainbowTech specializes in software, and high-tech solutions."
+
+    - title: Uxin
+      link: "https://www.xin.com/"
+      tagline: "A leading online used car plantform in China"
+
 skills:
-    title: Skills &amp; Proficiency
+  title: Skills &amp; Proficiency
 
-    toolset:
-      - name: C#
-        level: 98%
+  toolset:
+    - name: Javascript
+      level: 100%
 
-      - name: SQL
-        level: 90%
+    - name: React
+      level: 100%
 
-      - name: Javascript & jQuery
-        level: 90%
+    - name: C#
+      level: 90%
 
-      - name: Java
-        level: 80%
+    - name: SQL
+      level: 90%
 
-      - name: HTML5 & CSS
-        level: 80%
+    - name: Java
+      level: 80%
 
-      - name: Python
-        level: 80%
+    - name: HTML5 & CSS
+      level: 90%
 
 footer: >
