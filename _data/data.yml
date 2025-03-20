@@ -59,7 +59,7 @@ education:
   info:
     - degree: M.S. in Computer Science
       university: New York Institute of Technology
-      time: Jan. 2022 - May. 2024
+      time: 
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -68,7 +68,7 @@ education:
         pretium quis, sem.
     - degree: B.E. in Computer Application Software
       university: Jilin University
-      time: Sep. 2016 - Jun. 2020
+      time: 
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
