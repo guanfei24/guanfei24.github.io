@@ -13,7 +13,7 @@ sidebar:
 
   # Sidebar links
   email: guanflynn@gmail.com
-  phone: 516-280-9216
+  phone: 516-272-8767
   timezone: Eastern Standard Time
   #citizenship: Chinese
   linkedin: flynn-guan-b7aa56348
@@ -59,7 +59,7 @@ education:
   info:
     - degree: M.S. in Computer Science
       university: New York Institute of Technology
-      time: 
+      time:
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -68,7 +68,7 @@ education:
         pretium quis, sem.
     - degree: B.E. in Computer Application Software
       university: Jilin University
-      time: 
+      time:
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
